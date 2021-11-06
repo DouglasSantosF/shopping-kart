@@ -22,7 +22,7 @@
 
 ## **SOBRE:**
 ---
- Neste projeto, através de uma requisição da API do **Mercado Livre**, temos o resultado de busca com a palavra-chave **computador** já pré determinado. </br>
+ Neste projeto, através de uma requisição da API do **Mercado Livre**, temos o resultado de busca com a palavra-chave **computador** já pré determinada. </br>
  Em cada um dos cards retornados tem um botão de adicionar ao carrinho. Ao clicar neste botão, o item selecionado aparece no lado direito da tela, junto com o seu preço. Caso um segundo item seja adicionado ao carrinho, ele também é adicionado na lista e os valores dos itens são somados, totalizando o preço total do carrinho. </br>
  Os itens Adicionados ao carrinho, são salvos no Local Storage. Temos também um botão de esvaziar o carrinho, ao ser clicado, ele limpa a lista do campo e também do local storage.
 
